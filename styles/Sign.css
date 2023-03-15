@@ -1,0 +1,21 @@
+.actvty-frmsign {
+    width: 46%;
+    background: #4835d4;
+    border-top-right-radius: 10em;
+    border-bottom-right-radius: 5em;
+    padding-left: 2em;
+    padding-right: 2em;
+    margin: 5em 1em 3em 28em;
+    height: 19em;
+    position: absolute;
+    color: beige;
+}
+input#m_email {
+    width: 30em;
+}
+input#m_pass {
+    width: 30em;
+}
+.divsign {
+    margin: 1em 2em -1em 4em;
+}

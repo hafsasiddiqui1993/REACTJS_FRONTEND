@@ -1,0 +1,18 @@
+.actvty-frmsignup {
+    width: 46%;
+    background: #4835d4;
+    border-top-right-radius: 10em;
+    border-bottom-right-radius: 5em;
+    padding-left: 2em;
+    padding-right: 2em;
+    margin: 5em 1em 3em 28em;
+    height: 31em;
+    position: absolute;
+    color: beige;
+}
+
+.lblactvty {
+    width: 30em;
+    margin: 1em 1em -1em 1em;
+
+}

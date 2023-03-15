@@ -1,0 +1,66 @@
+a{
+    font-family: 'Quicksand';
+}
+.act1 {
+    position: absolute;
+  }
+  
+  .linkdash1 {
+    margin: 0em 0em 0em 0em;
+    text-decoration: none;
+    font-family: 'Lord';
+    color: #4835d4 !important;
+    font-weight: bolder;
+  }
+  
+  .linkdash2 {
+    margin: 1em 2em 1em 0em;
+    line-height: 7em;
+    text-decoration: none;
+    font-family: 'Lord';
+    color: #4835d4 !important;
+    font-weight: bolder;
+
+  }
+  
+  .linkdash3 {
+    margin: 7em 0em 0em 0em;
+    text-decoration: none;
+    font-family: 'Lord';
+    color: #4835d4 !important;
+    font-weight: bolder;
+
+
+  }
+
+  .linkdash4 {
+    margin: 3em 0em 0em 0em;
+    position: absolute;
+    text-decoration: none;
+    font-family: 'Lord';
+    color: #4835d4 !important;
+    font-weight: bolder;
+
+
+  } 
+  .offcanvas.offcanvas-start.show {
+    background: linear-gradient(195deg, rgb(223, 140, 32), rgb(119, 45, 0));
+  }
+
+  button.offcnvs.btn.btn-primary {
+    margin: 2em;
+    width: 0;
+    height: 0;
+    border-top: 50px solid transparent;
+    border-right: 59px solid #0028ff;
+    border-bottom: -11px solid transparent;
+  }
+
+  .accordion-button {
+    font-size: ;
+    font-family: 'Quicksand';
+  }
+
+  .accordion-body {
+    font-family: 'Quicksand';
+  }

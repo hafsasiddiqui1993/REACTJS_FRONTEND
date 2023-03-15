@@ -1,0 +1,42 @@
+.card{
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+button.btn.btn-primary {
+    border: none;
+    height: 49px;
+    margin-top: 50px;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    background: #99ccff;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: "Muli-SemiBold";
+    font-size: 15px;
+    letter-spacing: 2px;
+    transition: all 0.5s;
+    position: relative;
+    overflow: hidden;
+    width: 12em;
+    border-radius: 0em;
+    margin: 4em 0em 0em 13em;
+    border-color: beige;
+    background: orange !important;
+}
+.card-title.h5 {
+    font-size: 3em;
+    font-family: Lord;
+    font-weight: bolder;
+    margin: -0.4em 0em 0em 4em;
+    position: absolute;
+    color: #4835d4;
+}
+
+p.card-text {
+    position: absolute;
+    margin: 2em 0em 0em 0em;
+    color: orange;
+    font-family: 'Quicksand';
+    font-weight: bolder;
+}

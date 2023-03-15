@@ -1,0 +1,35 @@
+.dvnv3 {
+    position: absolute;
+    margin: 2em 0em 1em 0em;
+  }
+  .homenav1{
+    color: #e8e8e8;
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+    border-width: 0em;
+    border-radius: 7em;
+    box-shadow: 0.5rem 0.5rem #686868, -0.5rem -0.5rem #e0e1e9;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 100;
+    background-color: #4835d4;
+    margin: 0em 0em 0em 1em;
+  }
+  a.homenavhome {
+    margin: 2em 0em 0em 2em;
+    position: absolute;
+    color: #e8e8e8;
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+    border-width: 0em;
+    border-radius: 7em;
+    box-shadow: 0.5rem 0.5rem #686868, -0.5rem -0.5rem #e0e1e9;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 100;
+    background-color: #4835d4;
+}
+
+a.homenavhome:hover {
+  color: whitesmoke;
+  text-decoration: none;
+  background-color: yellowgreen;
+}

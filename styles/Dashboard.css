@@ -1,0 +1,76 @@
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+    height: 4em;
+    background-color: #4835d4 !important;
+}
+.dashhead {
+    margin: 1em 2em 1em 58em;
+    position: absolute;
+    /* font-family: quicksand; */
+}
+
+a.dashnav {
+    margin: 1em 2em 1em -2em;
+    font-family: 'Quicksand';
+    color: orange;
+}
+
+a.dashnav:hover {
+    font-family: 'Quicksand';
+    color: orange;
+}
+
+a.dashnav1 {
+    font-family: 'Quicksand';
+    color: orange;
+}
+
+a.dashnav1:hover {
+    font-family: 'Quicksand';
+    color: orange;
+}
+
+
+.crddash1.card {
+    margin: 3em 2em 1em 33em;
+}
+
+p.crdbd1.card-text {
+    margin: -9em 0em 0em 0em;
+    font-size: 1.8em;
+    font-weight: bolder;
+    font-family: 'Quicksand';
+    background: repeating-linear-gradient(45deg, black, transparent 100px);
+}
+
+img.card-img-top.imgdv {
+    width: 23em;
+    /* margin: 0em 3em 3em -40em; */
+    position: absolute;
+    margin: 3.1em 0em 0em -8em;
+    width: 67em;
+    padding: 0em;
+    height: 18em;
+    /* width: 67em; */
+}
+
+.accordion {
+    margin: 8em -3em 0em -6em;
+}
+button.offcnvs.btn.btn-primary {
+    margin: 2em;
+}
+img.figure-img.img-fluid {
+    width: 38em;
+    margin: 8em;
+    margin: 1em 2em 1em 17em;
+  }
+
+  .crdbdy01.card-body {
+    background: radial-gradient(black, transparent);
+}
+
+.accordion {
+    margin: 1em 0em 0em -8em;
+    position: absolute;
+    width: 65em;
+}
