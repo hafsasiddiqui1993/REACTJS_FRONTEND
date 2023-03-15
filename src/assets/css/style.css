@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+
+body{
+  overflow-x: hidden;
+  background-image: url('../photos/white-triangle-pattern-seamless-background-6.jpg');
+  background-color: lightslategrey;
+
+}
+  nav.navbar.navbar-expand.navbar-dark.bg-dark{
+    background-color:#8b0060 !important;
+
+  }
+  nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    margin: -1em 0em 0em 0em;
+    background-color:white !important;
+}
+  .header {
+    background-color:#8b0060 !important;
+    height: 3em;
+    margin: -1em -1em 1em -1em;
+    /* padding: 30px; */
+ 
+  }
+  img.logoimg {
+    width: 2em;
+    border-radius: 2em;
+    width:50px;
+    height:50px;
+} 
+div#navbarScroll {
+  margin: 0em 0em 0em 65em;
+}
+
+p.headp {
+  /* display: inline-table; */
+  margin: 0em 0em 0em 78em;
+}
+a.signin {
+  margin: 1.1em 0em 0em 6em;
+  position: absolute;
+}
+a.signup {
+  position: absolute;
+  margin: 1em;
+}
+.carousel.slide {
+  margin: 0em 0em 0em 0em;
+  height: 30em;
+
+}
+section.sec2 {
+  margin-top: -11em;
+}
+section.sec3 {
+  margin-top: -10em;
+}
+section.sec4 {
+  margin-top: -11em;
+}
+
+
+
+img.d-block.w-100 {
+  height: 33em;
+}
+
+.exediv {
+  margin: 10em 0em 5em 0em;
+}
+h1.exeh1 {
+  font-size: 4.2em;
+  font-family: Lord;
+  font-weight: 600;
+}
+
+/* div.col{
+  width:14rem;
+} */
+
+.card {
+  margin-bottom: 14em;
+  width: 46% !important;
+
+}
+img.rn {
+  margin-left: 48em;
+  width: 41em;
+  position: relative;
+  animation-name: gym1;
+  animation-duration: 30s;
+  margin-top: -23em;
+
+}
+@keyframes gym1 {
+  0%   {left:0px; top:0px;}
+  25%  { left:200px; top:0px;}
+  50%  { left:200px; top:200px;}
+  75%  { left:0px; top:200px;}
+  100% {left:0px; top:0px;}
+}
+.shadow {
+  border: 0px solid;
+  padding: 35px;
+  box-shadow: 5px 10px;
+  width:19em;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+}
+p.shadow {
+  font-size: 2em;
+  font-weight: 400;
+  font-family: Quicksand;
+  margin-top: 3em;
+
+}
+h2 {
+  font-size: 4em !important;
+  font-family: Lord !important;
+
+}
+h1.aportfolio {
+  margin: -3em 0em 0em 17em;
+}
+.imgsdivs {
+  margin-bottom: 4em;
+}
+footer {
+  /* margin: 3em; */
+  /* margin: 1em 1em 0em 2em; */
+  background-color: #8b0060 !important;;
+  width: 100em !important;
+  /* margin: 0em 0em 0em 0em; */
+  height: 8em;
+  position: absolute;
+}
+.imgdivs1{
+  width: 20em;
+  height: 20em;
+  margin: 4em 0em 0em 9em;
+  border-radius: 50%
+}
+h4.h4rg {
+  margin: 1em 0em 1em 20em;
+  color: cornsilk;
+}
+a.emailus {
+  margin: 2em 0em -2.2em 14em;
+  color: cornsilk;
+
+}
+/* .aside {
+  margin: -38em 0em 0em 66em;
+} */
